@@ -1,0 +1,5 @@
+{
+  "name": "Carte Candidats BTP",
+  "description": "Dashboard for managing BTP candidates with geolocation and travel time calculation using Google Maps and Sheets API.",
+  "requestFramePermissions": []
+}
